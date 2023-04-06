@@ -8,4 +8,6 @@ Simple utility to capture client's IP address while calling an end point.
 
 `curl -v -X  GET http://localhost:8080/getIp`
 
-Hosted and available at: https://mevinod.com/ping
+Docker image: `karikevinod/ip-capture:v1.0.0`
+
+Hosted and available at: `https://mevinod.com/ping`
